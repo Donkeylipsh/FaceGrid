@@ -4,6 +4,7 @@ A Unity Shader that displays a Sci-fi grid with an animated ominous human face p
 # Components
 * Unity Prefab
 * Unity C# Script
+* Unity Material
 * Unity HLSL Unlit Shader
 * .OBJ 3D Model
 
