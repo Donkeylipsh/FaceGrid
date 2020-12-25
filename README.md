@@ -1,5 +1,5 @@
 # FaceGrid
-A Unity Shader that displays a Sci-fi grid with an ominous human face protruding from the surface
+A Unity Shader that displays a Sci-fi grid with an animated ominous human face protruding from the surface
 
 # Components
 * Unity Prefab
